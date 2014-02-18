@@ -1,0 +1,57 @@
+a:hover {
+  text-decoration: none;
+}
+.main {
+  height:568px;
+  width:322px;
+  background:white;
+  border:1px solid gray;
+  margin: 50px auto;
+  position: relative;
+}
+header {
+  width: 100%;
+  height:50px;
+  background: orange;
+}
+p.title {
+  color: white;
+  font-size: 22px;
+
+  text-align: center;
+  vertical-align: baseline;
+  padding-top: 8px;
+}
+#map-canvas {
+  margin: 0;
+  padding: 0;
+  height: 300px;
+  width: 320px;
+  /*box-shadow: 0px 1px 5px;*/  
+}
+.contentString {
+  width: 150px;
+}
+
+/* Article */
+article {
+  margin-top: 15px;
+  height: 198px;
+  overflow: scroll;
+}
+.placeName {
+  padding: 9px 10px;
+}
+.placeName:nth-child(odd) {
+  background: #F5F5F5;
+}
+.badge {
+  vertical-align: text-bottom;/*badge align to bottom of text*/
+}
+.story {
+  display: none;
+  background: rgba(255,245,245,0.8);
+  height: 517px;
+  width: 322px;  
+}
+ 
