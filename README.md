@@ -1,6 +1,6 @@
 Travel App - Lucky
 =====
-#### An Hackathon Project
+#### A Hackathon Project
 
 *Emirates Travel Hackathon @Microsoft, Mountain View; Sep. 21-22, 2013*
 
